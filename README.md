@@ -25,7 +25,7 @@ The notebook uses the [creditcard.csv](https://www.kaggle.com/datasets/mlg-ulb/c
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Shufen-Yin/Assignment-8-.git
+ https://github.com/Shufen-Yin/Assignment-8-/tree/main
    ```
 2. Open the notebook in Jupyter or Google Colab.
 3. Ensure the dataset `creditcard.csv` is in the same folder as the notebook.
